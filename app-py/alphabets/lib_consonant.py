@@ -6,7 +6,7 @@ class LibConsonant:
                     {
                         'letter': 'က',
                         'tone': 'clear',
-                        'ipa': 'kaˀ',
+                        'ipa': 'ka',
                         'th': 'กะ',
                         'thLetter': 'ก',
                         'compoundIPA': 'k',
@@ -15,8 +15,8 @@ class LibConsonant:
                     {
                         'letter': 'ခ',
                         'tone': 'clear',
-                        'ipa': 'kʰaˀ',
-                        'th': 'ค่ะ',
+                        'ipa': 'kʰa',
+                        'th': 'คะ',
                         'thLetter': 'ข',
                         'compoundIPA': 'kʰ',
                         'compoundTH': 'ค',
@@ -24,8 +24,8 @@ class LibConsonant:
                     {
                         'letter': 'ဂ',
                         'tone': 'breathy',
-                        'ipa': 'kɛ̤ˀ',
-                        'th': 'เกี่ยะ',
+                        'ipa': 'kɛˑa',
+                        'th': 'แกฺ-ะ',
                         'thLetter': 'ค',
                         'compoundIPA': 'k',
                         'compoundTH': 'ก',
@@ -33,8 +33,8 @@ class LibConsonant:
                     {
                         'letter': 'ဃ',
                         'tone': 'breathy',
-                        'ipa': 'kʰɛ̤ˀ',
-                        'th': 'เคี่ยะ',
+                        'ipa': 'kʰɛˑa',
+                        'th': 'แขฺ-ะ',
                         'thLetter': 'ฆ',
                         'compoundIPA': 'kʰ',
                         'compoundTH': 'ค',
@@ -43,8 +43,9 @@ class LibConsonant:
                         'letter': 'ၚ',
                         'letter2': 'င',
                         'tone': 'breathy',
-                        'ipa': 'ŋɛ̤ˀ',
-                        'th': 'เงี่ยะ',
+                        'tone2': 'clear',
+                        'ipa': 'ŋɛˑa',
+                        'th': 'แหฺง-ะ',
                         'thLetter': 'ง',
                         'compoundIPA': 'ŋ',
                         'compoundTH': 'ง',
@@ -56,7 +57,7 @@ class LibConsonant:
                     {
                         'letter': 'စ',
                         'tone': 'clear',
-                        'ipa': 'caˀ',
+                        'ipa': 'ca',
                         'th': 'จะ',
                         'thLetter': 'จ',
                         'compoundIPA': 'c',
@@ -65,7 +66,7 @@ class LibConsonant:
                     {
                         'letter': 'ဆ',
                         'tone': 'clear',
-                        'ipa': 'cʰaˀ',
+                        'ipa': 'cʰa',
                         'th': 'ชะ',
                         'thLetter': 'ฉ',
                         'compoundIPA': 'cʰ',
@@ -74,8 +75,8 @@ class LibConsonant:
                     {
                         'letter': 'ဇ',
                         'tone': 'breathy',
-                        'ipa': 'cɛ̤ˀ',
-                        'th': 'เจียะ',
+                        'ipa': 'cɛˑa',
+                        'th': 'แจฺ-ะ',
                         'thLetter': 'ช',
                         'compoundIPA': 'c',
                         'compoundTH': 'จ',
@@ -83,8 +84,8 @@ class LibConsonant:
                     {
                         'letter': 'ၛ',
                         'tone': 'breathy',
-                        'ipa': 'cʰɛ̤ˀ',
-                        'th': 'เชี่ยะ',
+                        'ipa': 'cʰɛˑa',
+                        'th': 'แฉฺ-ะ',
                         'thLetter': 'ฌ',
                         'compoundIPA': 'cʰ',
                         'compoundTH': 'ช',
@@ -92,8 +93,9 @@ class LibConsonant:
                     {
                         'letter': 'ည',
                         'tone': 'breathy',
-                        'ipa': 'ɲɛ̤ˀ',
-                        'th': 'เญียะ',
+                        'tone2': 'clear',
+                        'ipa': 'ɲɛˑa',
+                        'th': 'แญฺ-ะ',
                         'thLetter': 'ญ',
                         'compoundIPA': 'ɲ',
                         'compoundTH': 'ญ',
@@ -105,7 +107,7 @@ class LibConsonant:
                     {
                         'letter': 'ဋ',
                         'tone': 'clear',
-                        'ipa': 'taˀ',
+                        'ipa': 'ta',
                         'th': 'ตะ',
                         'thLetter': 'ฏ',
                         'compoundIPA': 't',
@@ -114,7 +116,7 @@ class LibConsonant:
                     {
                         'letter': 'ဌ',
                         'tone': 'clear',
-                        'ipa': 'tʰaˀ',
+                        'ipa': 'tʰa',
                         'th': 'ทะ',
                         'thLetter': 'ฐ',
                         'compoundIPA': 'tʰ',
@@ -123,7 +125,7 @@ class LibConsonant:
                     {
                         'letter': 'ဍ',
                         'tone': 'clear',
-                        'ipa': 'ɗaˀ',
+                        'ipa': 'ɗa',
                         'th': 'ดะ',
                         'thLetter': 'ฑ',
                         'compoundIPA': 'ɗ',
@@ -132,8 +134,8 @@ class LibConsonant:
                     {
                         'letter': 'ဎ',
                         'tone': 'breathy',
-                        'ipa': 'tʰɛ̤ˀ',
-                        'th': 'เที่ยะ',
+                        'ipa': 'tʰɛˑa',
+                        'th': 'แถฺ-ะ',
                         'thLetter': 'ฒ',
                         'compoundIPA': 'tʰ',
                         'compoundTH': 'ท',
@@ -141,7 +143,7 @@ class LibConsonant:
                     {
                         'letter': 'ဏ',
                         'tone': 'clear',
-                        'ipa': 'naˀ',
+                        'ipa': 'na',
                         'th': 'นะ',
                         'thLetter': 'ณ',
                         'compoundIPA': 'n',
@@ -154,7 +156,7 @@ class LibConsonant:
                     {
                         'letter': 'တ',
                         'tone': 'clear',
-                        'ipa': 'taˀ',
+                        'ipa': 'ta',
                         'th': 'ตะ',
                         'thLetter': 'ต',
                         'compoundIPA': 't',
@@ -163,7 +165,7 @@ class LibConsonant:
                     {
                         'letter': 'ထ',
                         'tone': 'clear',
-                        'ipa': 'tʰaˀ',
+                        'ipa': 'tʰa',
                         'th': 'ทะ',
                         'thLetter': 'ถ',
                         'compoundIPA': 'tʰ',
@@ -172,8 +174,8 @@ class LibConsonant:
                     {
                         'letter': 'ဒ',
                         'tone': 'breathy',
-                        'ipa': 'tɛ̤ˀ',
-                        'th': 'เตี่ยะ',
+                        'ipa': 'tɛˑa',
+                        'th': 'แตฺ-ะ',
                         'thLetter': 'ท',
                         'compoundIPA': 't',
                         'compoundTH': 'ต',
@@ -181,8 +183,8 @@ class LibConsonant:
                     {
                         'letter': 'ဓ',
                         'tone': 'breathy',
-                        'ipa': 'tʰɛ̤ˀ',
-                        'th': 'เทียะ',
+                        'ipa': 'tʰɛˑa',
+                        'th': 'แถฺ-ะ',
                         'thLetter': 'ธ',
                         'compoundIPA': 'tʰ',
                         'compoundTH': 'ท',
@@ -190,8 +192,9 @@ class LibConsonant:
                     {
                         'letter': 'န',
                         'tone': 'breathy',
-                        'ipa': 'nɛ̤ˀ',
-                        'th': 'เนียะ',
+                        'tone2': 'clear',
+                        'ipa': 'nɛˑa',
+                        'th': 'แหฺน-ะ',
                         'thLetter': 'น',
                         'compoundIPA': 'n',
                         'compoundTH': 'น',
@@ -203,7 +206,7 @@ class LibConsonant:
                     {
                         'letter': 'ပ',
                         'tone': 'clear',
-                        'ipa': 'paˀ',
+                        'ipa': 'pa',
                         'th': 'ปะ',
                         'thLetter': 'ป',
                         'compoundIPA': 'p',
@@ -212,7 +215,7 @@ class LibConsonant:
                     {
                         'letter': 'ဖ',
                         'tone': 'clear',
-                        'ipa': 'pʰaˀ',
+                        'ipa': 'pʰa',
                         'th': 'พะ',
                         'thLetter': 'ผ',
                         'compoundIPA': 'pʰ',
@@ -221,8 +224,8 @@ class LibConsonant:
                     {
                         'letter': 'ဗ',
                         'tone': 'breathy',
-                        'ipa': 'pɛ̤ˀ',
-                        'th': 'เปี่ยะ',
+                        'ipa': 'pɛˑa',
+                        'th': 'แปฺ-ะ',
                         'thLetter': 'พ',
                         'compoundIPA': 'p',
                         'compoundTH': 'ป',
@@ -230,8 +233,8 @@ class LibConsonant:
                     {
                         'letter': 'ဘ',
                         'tone': 'breathy',
-                        'ipa': 'pʰɛ̤ˀ',
-                        'th': 'เพียะ',
+                        'ipa': 'pʰɛˑa',
+                        'th': 'แผฺ-ะ',
                         'thLetter': 'ภ',
                         'compoundIPA': 'pʰ',
                         'compoundTH': 'พ',
@@ -239,8 +242,9 @@ class LibConsonant:
                     {
                         'letter': 'မ',
                         'tone': 'breathy',
-                        'ipa': 'mɛ̤ˀ',
-                        'th': 'เมียะ',
+                        'tone2': 'clear',
+                        'ipa': 'mɛˑa',
+                        'th': 'แหฺม-ะ',
                         'thLetter': 'ม',
                         'compoundIPA': 'm',
                         'compoundTH': 'ม',
@@ -253,8 +257,9 @@ class LibConsonant:
                     {
                         'letter': 'ယ',
                         'tone': 'breathy',
-                        'ipa': 'jɛ̤ˀ',
-                        'th': 'เยียะ',
+                        'tone2': 'clear',
+                        'ipa': 'jɛˑa',
+                        'th': 'แหฺย-ะ',
                         'thLetter': 'ย',
                         'compoundIPA': 'j',
                         'compoundTH': 'ย',
@@ -262,8 +267,9 @@ class LibConsonant:
                     {
                         'letter': 'ရ',
                         'tone': 'breathy',
-                        'ipa': 'rɛ̤ˀ',
-                        'th': 'เรียะ',
+                        'tone2': 'clear',
+                        'ipa': 'rɛˑa',
+                        'th': 'แหฺร-ะ',
                         'thLetter': 'ร',
                         'compoundIPA': 'r',
                         'compoundTH': 'ร',
@@ -271,8 +277,9 @@ class LibConsonant:
                     {
                         'letter': 'လ',
                         'tone': 'breathy',
-                        'ipa': 'lɛ̤ˀ',
-                        'th': 'เลียะ',
+                        'tone2': 'clear',
+                        'ipa': 'lɛˑa',
+                        'th': 'แหฺล-ะ',
                         'thLetter': 'ล',
                         'compoundIPA': 'l',
                         'compoundTH': 'ล',
@@ -280,8 +287,9 @@ class LibConsonant:
                     {
                         'letter': 'ဝ',
                         'tone': 'breathy',
-                        'ipa': 'wɛ̤ˀ',
-                        'th': 'เวียะ',
+                        'tone2': 'clear',
+                        'ipa': 'wɛˑa',
+                        'th': 'แหฺว-ะ',
                         'thLetter': 'ว',
                         'compoundIPA': 'w',
                         'compoundTH': 'ว',
@@ -289,7 +297,7 @@ class LibConsonant:
                     {
                         'letter': 'သ',
                         'tone': 'clear',
-                        'ipa': 'saˀ',
+                        'ipa': 'sa',
                         'th': 'ซะ',
                         'thLetter': 'ซ',
                         'compoundIPA': 's',
@@ -303,7 +311,7 @@ class LibConsonant:
                     {
                         'letter': 'ဟ',
                         'tone': 'clear',
-                        'ipa': 'haˀ',
+                        'ipa': 'ha',
                         'th': 'ฮะ',
                         'thLetter': 'ฮ',
                         'compoundIPA': 'h',
@@ -312,7 +320,7 @@ class LibConsonant:
                     {
                         'letter': 'ဠ',
                         'tone': 'clear',
-                        'ipa': 'laˀ',
+                        'ipa': 'la',
                         'th': 'ละ',
                         'thLetter': 'ฬ',
                         'compoundIPA': 'l',
@@ -321,7 +329,7 @@ class LibConsonant:
                     {
                         'letter': 'ၜ',
                         'tone': 'clear',
-                        'ipa': 'ɓaˀ',
+                        'ipa': 'ɓa',
                         'th': 'บะ',
                         'thLetter': 'บ',
                         'compoundIPA': 'ɓ',
@@ -330,7 +338,7 @@ class LibConsonant:
                     {
                         'letter': 'အ',
                         'tone': 'clear',
-                        'ipa': 'ʔaˀ',
+                        'ipa': 'ʔa',
                         'th': 'อะ',
                         'thLetter': 'อ',
                         'compoundIPA': 'ʔ',
@@ -339,8 +347,8 @@ class LibConsonant:
                     {
                         'letter': 'ၝ',
                         'tone': 'breathy',
-                        'ipa': 'ɓɛ̤ˀ',
-                        'th': 'เบียะ',
+                        'ipa': 'ɓɛˑa',
+                        'th': 'แบฺ-ะ',
                         'thLetter': '-',
                         'compoundIPA': 'ɓ',
                         'compoundTH': 'บ',
@@ -353,7 +361,7 @@ class LibConsonant:
                     {
                         'letter': 'ကျ',
                         'tone': 'clear',
-                        'ipa': 'cjaˀ',
+                        'ipa': 'cja',
                         'th': 'ชฺยะ',
                         'thLetter': 'ชฺย',
                         'compoundIPA': 'cj',
@@ -362,7 +370,7 @@ class LibConsonant:
                     {
                         'letter': 'ချ',
                         'tone': 'clear',
-                        'ipa': 'cʰaˀ',
+                        'ipa': 'cʰa',
                         'th': 'ชะ',
                         'thLetter': 'ช',
                         'compoundIPA': 'cʰ',
@@ -371,7 +379,7 @@ class LibConsonant:
                     {
                         'letter': 'ဂျ',
                         'tone': 'breathy',
-                        'ipa': 'cjɛ̤ˀ',
+                        'ipa': 'cjɛˑa',
                         'th': 'แชฺยะ',
                         'thLetter': 'ชฺย',
                         'compoundIPA': 'cj',
@@ -380,7 +388,7 @@ class LibConsonant:
                     {
                         'letter': 'ဖျ',
                         'tone': 'clear',
-                        'ipa': 'pʰjaˀ',
+                        'ipa': 'pʰja',
                         'th': 'พฺยะ',
                         'thLetter': 'พฺย',
                         'compoundIPA': 'pʰj',
@@ -389,7 +397,7 @@ class LibConsonant:
                     {
                         'letter': 'စြ',
                         'tone': 'clear',
-                        'ipa': 'saˀ',
+                        'ipa': 'sa',
                         'th': 'ซะ',
                         'thLetter': 'ซ',
                         'compoundIPA': 's',
@@ -398,7 +406,7 @@ class LibConsonant:
                     {
                         'letter': 'ဇြ',
                         'tone': 'breathy',
-                        'ipa': 'sɛ̤ˀ',
+                        'ipa': 'sɛˑa',
                         'th': 'แซะ',
                         'thLetter': 'ซ',
                         'compoundIPA': 's',
@@ -407,7 +415,7 @@ class LibConsonant:
                     {
                         'letter': 'သြ',
                         'tone': 'clear',
-                        'ipa': 'saˀ',
+                        'ipa': 'sa',
                         'th': 'ซะ',
                         'thLetter': 'ซ',
                         'compoundIPA': 's',
@@ -416,7 +424,7 @@ class LibConsonant:
                     {
                         'letter': 'တြ',
                         'tone': 'clear',
-                        'ipa': 'traˀ',
+                        'ipa': 'tra',
                         'th': 'ตฺระ',
                         'thLetter': 'ตฺร',
                         'compoundIPA': 'tr',
@@ -425,7 +433,7 @@ class LibConsonant:
                     {
                         'letter': 'ဒြ',
                         'tone': 'breathy',
-                        'ipa': 'trɛ̤ˀ',
+                        'ipa': 'trɛˑa',
                         'th': 'แตฺระ',
                         'thLetter': 'ตฺร',
                         'compoundIPA': 'tr',
@@ -434,7 +442,7 @@ class LibConsonant:
                     {
                         'letter': 'သၠ',
                         'tone': 'clear',
-                        'ipa': 'slaˀ',
+                        'ipa': 'sla',
                         'th': 'ซฺละ',
                         'thLetter': 'ซฺล',
                         'compoundIPA': 'sl',
@@ -443,7 +451,7 @@ class LibConsonant:
                     {
                         'letter': 'ဇွ',
                         'tone': 'breathy',
-                        'ipa': 'fɛ̤ˀ',
+                        'ipa': 'fɛˑa',
                         'th': 'แฟะ',
                         'thLetter': 'ฟ',
                         'compoundIPA': 'f',
@@ -452,7 +460,7 @@ class LibConsonant:
                     {
                         'letter': 'တွ',
                         'tone': 'clear',
-                        'ipa': 'twaˀ',
+                        'ipa': 'twa',
                         'th': 'ตฺวะ',
                         'thLetter': 'ตฺว',
                         'compoundIPA': 'tw',
@@ -461,7 +469,7 @@ class LibConsonant:
                     {
                         'letter': 'သွ',
                         'tone': 'clear',
-                        'ipa': 'faˀ',
+                        'ipa': 'fa',
                         'th': 'ฟะ',
                         'thLetter': 'ฟ',
                         'compoundIPA': 'f',
@@ -470,7 +478,7 @@ class LibConsonant:
                     {
                         'letter': 'သ္ၚ',
                         'tone': 'clear',
-                        'ipa': 'haˀ',
+                        'ipa': 'ha',
                         'th': 'ฮะ',
                         'thLetter': 'ฮ',
                         'compoundIPA': 'h',
@@ -479,7 +487,7 @@ class LibConsonant:
                     {
                         'letter': 'ဇ္ၚ',
                         'tone': 'breathy',
-                        'ipa': 'cjɛ̤ˀ',
+                        'ipa': 'cjɛˑa',
                         'th': 'แชฺงะ',
                         'thLetter': 'ชงฺ',
                         'compoundIPA': 'cj',
@@ -488,7 +496,7 @@ class LibConsonant:
                     {
                         'letter': 'သ္ဇ',
                         'tone': 'breathy',
-                        'ipa': 'saˀ',
+                        'ipa': 'sa',
                         'th': 'ซะ',
                         'thLetter': 'ซ',
                         'compoundIPA': 's',
@@ -497,7 +505,7 @@ class LibConsonant:
                     {
                         'letter': 'ရှ',
                         'tone': 'clear',
-                        'ipa': 'saˀ',
+                        'ipa': 'sa',
                         'th': 'ซะ',
                         'thLetter': 'ซ',
                         'compoundIPA': 's',
@@ -506,7 +514,7 @@ class LibConsonant:
                     {
                         'letter': 'ညှ',
                         'tone': 'clear',
-                        'ipa': 'hɲaˀ',
+                        'ipa': 'hɲa',
                         'th': 'ฮฺญะ',
                         'thLetter': 'ฮฺญ',
                         'compoundIPA': 'hɲ',
